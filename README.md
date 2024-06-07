@@ -1,7 +1,5 @@
 ## Hi there, I'm Guilherme Fermino! 🖖🤖
 
-<a href="https://github.com/guifermino7">
-
 ### My social network:
 
 <div align="center">
