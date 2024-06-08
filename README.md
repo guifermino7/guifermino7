@@ -30,3 +30,7 @@
   <img align="center" alt="SQL Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
+
+<br>
+
+![Snake animation](https://github.com/guifermino7/guifermino7/blob/main/guifermino7-github-user-contribution.svg)
