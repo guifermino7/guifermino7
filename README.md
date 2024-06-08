@@ -15,7 +15,7 @@
 <div align="center">
   <a href="https://github.com/guifermino7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guifermino7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" align="center"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifermino7&layout=compact&langs_count=6&theme=tokyonight&hide=Jupyter Notebook" align="center"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifermino7&layout=compact&langs_count=6&theme=tokyonight&hide=jupyternotebook" align="center"/>
 </div>
 
 ### My knowleadge:
@@ -30,7 +30,3 @@
   <img align="center" alt="SQL Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
-
-<br>
-
-![Snake animation](https://github.com/guifermino7/guifermino7/blob/main/guifermino7-github-user-contribution.svg)
